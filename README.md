@@ -1,4 +1,4 @@
-My name is Maciej Blankenburg (McBlankenburg). I have been involved in the broadly defined IT since my teenage years. I started my journey by creating simple websites using HTML, CSS, and JavaScript for personal use. Over time, I learned the C++ language to create and modify plugins for CS 1.6 for my own needs and on request. I was playing with arduino as a hobby. Currently, I focus on writing business applications in Java.
+My name is Maciej Blankenburg. I have been involved in the broadly defined IT since my teenage years. I started my journey by creating simple websites using HTML, CSS, and JavaScript for personal use. Over time, I learned the C++ language to create and modify plugins for CS 1.6 for my own needs and on request. I was playing with arduino as a hobby. Currently, I focus on writing business applications in Java.
 
 - 🔭 I’m currently working on my personal project [SkyTrader24](https://github.com/McBlankenburg/SkyTrader24)
 - 👯 I am collaborating on a project [tutoring-platform](https://github.com/Simple-as-Coding/tutoring-platform/)
