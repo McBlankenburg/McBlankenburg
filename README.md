@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Java Fullstack Developer</h1>
 <h3 align="center">mainly interested in the backend but not afraid to take on tasks as devops or frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcblankenburg&label=Profile%20views&color=0e75b6&style=flat" alt="mcblankenburg" /> </p>
-
 - 🔭 I’m currently working on my personal project [SkyTrader24](https://github.com/McBlankenburg/SkyTrader24)
 
 - 🌱 I’m currently learning **Spring Security and Angular**
