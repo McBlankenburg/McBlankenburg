@@ -4,5 +4,8 @@ I am open to collaborating on interesting and innovative projects.
 📫 How to reach me **maciej.blankenburg@gmail.com**
 👥 Linkedin [Click Here](https://www.linkedin.com/in/mcblankenburg/)
  
- 
-
+ Java | Kotlin | SQL | Bash | Powershell |
+ Hibernate | Spring-boot | Spring-JPA | Spring-Security |
+ JUnit5 | Mockito3 | TestContainers | TDD/BDD |
+ Kubernetes | Docker | Jenkins | GitHub Action | Terraform
+ KeyCloak | RabbitMQ | Kafka | Microservices |
