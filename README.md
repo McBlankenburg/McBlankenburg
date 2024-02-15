@@ -5,16 +5,9 @@ I am open to collaborating on interesting and innovative projects.
 👯 I contribute to the github organization [Progress-House](https://github.com/Progress-House/)
 
 👥 Linkedin [Click Here](https://www.linkedin.com/in/mcblankenburg/)
-
  
- Java | Kotlin | SQL | Bash | Powershell | GIT | Maven |
- 
- Hibernate | Spring-boot | Spring-JPA | Spring-Security |
- 
- JUnit5 | Mockito3 | TestContainers | TDD/BDD |
- 
- Kubernetes | Docker | Jenkins | GitHub Action | Terraform |
- 
- KeyCloak | RabbitMQ | Kafka | Microservices |
- 
- 
+<sub>Java | Kotlin | SQL | Bash | Powershell | GIT | Maven |  
+Hibernate | Spring-boot | Spring-JPA | Spring-Security |  
+JUnit5 | Mockito3 | TestContainers | TDD/BDD |  
+Kubernetes | Docker | Jenkins | GitHub Action | Terraform |  
+KeyCloak | RabbitMQ | Kafka | Microservices |</sub>
