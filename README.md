@@ -17,8 +17,8 @@ I have been passionate about 💻 IT since I was a teenager 👶.
 I started my adventure with C++, Game Dev 🎮 and simple websites all the way ending on Java. 💻  
 Providing services for over 2 years on part-time as a hobbyist freelancer, selling custom-made plugins, setting up dedicated VPS game servers and creating simple custom-made websites.  
 During my studies, I learned a little about microprocessors and deepened my Java knowledge.  
-I am involved in open-source activities, and I am happy to teach new people who want to enter the IT industry 
-(I have already managed to introduce a few to the industry :)    
+I am involved in open-source activities, and I am happy to teach new people who want to enter the IT industry   
+(I have already managed to introduce a few to the industry :)      
 Ultimately, I'm focused on scaling the application.  
 Where there is scaling, there is the future.  
 
