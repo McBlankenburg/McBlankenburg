@@ -1,7 +1,7 @@
 Hello, I am Maciej Blankenburg, I have around 3 years commercial experience in Java Development
 I am interested in everything that scales well and ensures reliability and high availability.
 Currently I am focused on development as a Java Developer + Spring Boot + Devops mainly in Kubernetes / Openshift + GCP Cloud + BigData (Apache Kafka) + Microservices
-I have been passionate about IT since I was a child.
+I have been passionate about IT since I was a teenager.
 I started my adventure with C++, Game Dev and simple websites all the way ending on Java.
 Providing services for over 2 years on part-time as a hobbyist freelancer, selling custom-made plugins, setting up dedicated VPS game servers and creating simple custom-made websites.
 During my studies, I learned a little about microprocesors and deepended my Java knowledge.
