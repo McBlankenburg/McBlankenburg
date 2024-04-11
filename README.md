@@ -10,7 +10,7 @@ Currently I am focused on development as a:
 
 Devops mainly in   
 ☸︎ Kubernetes / ⭕️ Openshift  
-☁️ GCP Cloud  
+☁️ GCP Cloud / 🌍 Terraform
 📊 BigData (🐦 Apache Kafka)  
 
 I have been passionate about 💻 IT since I was a teenager 👶.  
