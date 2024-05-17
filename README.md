@@ -9,7 +9,7 @@ Currently I am focused on development as a:
   🐝 Microservices  
 
 Devops mainly in   
-☸︎ Kubernetes / ⭕️ Openshift  
+☸︎ Kubernetes
 ☁️ GCP Cloud / 🌍 Terraform  
 📊 BigData (🐦 Apache Kafka)  
 
