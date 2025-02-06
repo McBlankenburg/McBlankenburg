@@ -4,14 +4,11 @@ I am interested in everything that scales well 📈 and ensures reliability and 
 Currently I am focused on development as a:  
 
  Java Developer mainly in  
-  🌱 Spring Boot  
-  🛌 Hibernate  
-  🐝 Microservices  
+  🌱 Spring Boot
 
 Devops mainly in   
-☸︎ Kubernetes
-☁️ GCP Cloud / 🌍 Terraform  
-📊 BigData (🐦 Apache Kafka)  
+☸︎ Kubernetes, docker / podman
+
 
 I have been passionate about 💻 IT since I was a teenager 👶.  
 I started my adventure with C++, Game Dev 🎮 and simple websites all the way ending on Java. 💻  
@@ -30,6 +27,6 @@ Where there is scaling, there is the future.
  
 <sub>Java | Kotlin | SQL | Bash | Powershell | GIT | Maven |  
 Hibernate | Spring-boot | Spring-JPA | Spring-Security |  
-JUnit5 | Mockito3 | TestContainers | TDD/BDD |  
-Kubernetes | Docker | Jenkins | GitHub Action | Terraform |  
-KeyCloak | RabbitMQ | Kafka | Microservices |</sub>
+JUnit5 | Mockito3 | TDD/BDD |  
+Kubernetes | Docker | Jenkins | GitHub Action
+KeyCloak | Microservices |</sub>
